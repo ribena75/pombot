@@ -1,6 +1,6 @@
 # I. Am. Pombot
 
-# 002: Err, what just happened?
+## 002: Err, what just happened?
 
 ![#1](/img/pombot_002.png)
 
