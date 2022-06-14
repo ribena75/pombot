@@ -1,4 +1,4 @@
-# I. Am. Pombot
+# Pombot
 
 ## #1: I. Am. Pombot
 
