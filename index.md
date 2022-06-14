@@ -1,5 +1,3 @@
-# I. Am. Pombot
-
 Latest episode at the top! 😊
 
 ## 002: Err, what just happened?
