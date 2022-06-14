@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Pombot
-
 ## #1: I. Am. Pombot
 
 ![#1](/img/pombot_001.png)
