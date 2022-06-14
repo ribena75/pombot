@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Pombot
 
 ## #1: I. Am. Pombot
