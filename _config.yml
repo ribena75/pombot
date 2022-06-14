@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -14,4 +14,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 title: POMBOT
-description: Comics and stuff
+description: Comics and stuff by Holden and friends
