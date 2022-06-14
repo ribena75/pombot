@@ -1,4 +1,4 @@
-# POMBOT
+# I. Am. Pombot
 
 ## 002: Err, what just happened?
 
